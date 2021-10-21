@@ -1,0 +1,5 @@
+git init
+git remote add origin urldoRepositorio + .git
+git add .
+git commit -m "descrição"
+git push origin master 
