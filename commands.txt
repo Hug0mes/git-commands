@@ -1,5 +1,5 @@
 git init
-git remote add origin urldoRepositorio + .git
+git remote add origin {repository url} + .git (without the brackets)
 git add .
-git commit -m "descrição"
+git commit -m "description"
 git push origin master 
